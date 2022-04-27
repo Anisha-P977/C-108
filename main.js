@@ -42,7 +42,7 @@ function gotResults(error, results) {
             img1.src = 'aliens-02.gif';
             img2.src = 'aliens-03.png';
             img3.src = 'aliens-04.png';
-        } else if (results[0].label == "Snapping") {
+        } else if (results[0].label == "Snap") {
             img.src = 'aliens-01.png';
             img1.src = 'aliens-02.png';
             img2.src = 'aliens-03.gif';
